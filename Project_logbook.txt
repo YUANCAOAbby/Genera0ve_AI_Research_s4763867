@@ -1,0 +1,6 @@
+Project logbook for the Generative AI research project.
+
+Line 1: Literature review materials are stored in the literature review folder.
+Line 2: Survey data and analysis files are stored in the quantitative analysis folder.
+Line 3: Interview transcripts and consent forms require controlled access.
+Line 4: Drafts and final reports will be reviewed before submission.
